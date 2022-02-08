@@ -5,7 +5,7 @@ import './App.css';
 import { Component } from 'react/cjs/react.production.min';
 import { HashRouter, Link, Route, Router } from 'react-router-dom';
 
-function App = () => {
+const App = () => {
   return (
     <section className="App">
       <Router>

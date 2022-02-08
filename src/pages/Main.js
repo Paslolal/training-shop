@@ -5,3 +5,4 @@ const Main = () => (
         main
     </h1>
 );
+export default Main;
